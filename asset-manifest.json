@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-props-tutor-project/static/css/main.073c9b0a.css",
+    "main.js": "/react-props-tutor-project/static/js/main.28f10f38.js",
+    "index.html": "/react-props-tutor-project/index.html",
+    "main.073c9b0a.css.map": "/react-props-tutor-project/static/css/main.073c9b0a.css.map",
+    "main.28f10f38.js.map": "/react-props-tutor-project/static/js/main.28f10f38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.28f10f38.js"
+  ]
+}
